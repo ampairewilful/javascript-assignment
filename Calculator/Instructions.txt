@@ -1,0 +1,8 @@
+Follow These Steps To add This Extension to your Chrome browser.
+
+1.Open Chrome
+2.Type "chrome://extensions/" in the url without the quotations
+3.Check developer options
+4.Click Load unpacked extension
+5.Browse and select the Extension folder in your downloads
+6.After it has been succesfully intergrated in your browser, click "Launch" in the extenion description.
